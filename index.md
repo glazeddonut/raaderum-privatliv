@@ -6,7 +6,7 @@ lang: da
 
 # Privatlivspolitik for Råderum
 
-*Gældende fra 15. november 2026*
+*Gældende fra 25. november 2026*
 
 Råderum er en app til at regne på din økonomi over tid. Den er lavet, så dine oplysninger bliver
 hos dig. Her står, hvad appen gemmer, hvor det ligger, og hvad udvikleren kan se.
@@ -24,6 +24,20 @@ Appen gemmer det, du selv taster ind for at få en fremskrivning: for eksempel n
 på husstandens personer, kommune, løn og fradrag, forbrug, bolig og lån, pensioner, opsparing og
 investeringer, og de livsbegivenheder og valg, du lægger ind. Appen beder ikke om adgang til
 kamera, billeder, kontakter, placering eller andet på din enhed.
+
+## Dokumenter, du henter ind
+
+Du kan hente tal fra dine egne dokumenter: rapporten fra PensionsInfo, forskudsopgørelsen og
+indkomstoplysningerne fra skat.dk og din lønseddel. Dokumentet læses kun på din telefon. Det
+sendes ikke nogen steder hen, og appen gemmer det ikke, heller ikke dit CPR-nummer eller navn. Du
+ser, hvad appen har fundet, og kun de tal, du vælger at tilføje, gemmes, som hvis du havde tastet
+dem selv.
+
+Læser appen en rapport fra PensionsInfo forkert, kan du selv dele rapportens opbygning: en tekst med
+rapportens rækker og faste ord, hvor tal er erstattet med 0 eller løbenumre, dit navn med NAVN, og
+adresse og e-mail er fjernet. Navnene på dine pensionsselskaber står der stadig, og det kan andre
+navne i rapporten også gøre, for eksempel en begunstiget. Teksten laves på din telefon, du kan læse
+den, før du deler den, og appen sender eller gemmer den ikke selv.
 
 ## Hvor dine oplysninger ligger
 
